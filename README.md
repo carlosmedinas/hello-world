@@ -1,2 +1,2 @@
 # hello-world
-quick test
+remove description
